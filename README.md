@@ -1,4 +1,4 @@
-# energy_data_analysis
+# Energy_Supply_Data_Analysis
 It has been well documented that there is a positive relationship between energy demand and GDP. I became interested in exploring if this positive relationship translates to energy supply and GPD when I was studying Data Science with Python and I was analyzing these datasets for a similar task.
 
 In this analysis I used Pandas, SciPy, and Matplotlib to clean, merge, analyze, and plot data and results from two datasets: energy supply and GDP. The sources of these datasets are the [United Nations](https://unstats.un.org/unsd/energystats/data/) for the former and the [World Bank](https://data.worldbank.org/) for the latter.
